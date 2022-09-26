@@ -35,7 +35,7 @@ while console != '2':
         print("\n")
         javab = random.randint(1,99)
     else :
-        console = input("are you sure ? [1=yes , 2=exit] >>> ")
+        console = input("are you sure ? [1=No! , 2=exit] >>> ")
 
 exit()
 
